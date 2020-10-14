@@ -15,7 +15,7 @@ Built a world-class enterprise betting web application with React, JavaScript, R
 Built telecommunication web applications for customers and customer support agents with Angular and TypeScript.
 - **Functional and OO Programming**: Practiced OOP aspects with TypeScript and used state management (NGXS/NGRX) and reactive programming techniques(RxJS) within the Angular ecosystem.
 - **Driven to Deliver the Best User Experience**: Built a customer-facing web application and a customer service application; both designed to give smooth, modern-feel to users.
-- **Solving Problems and Architectural Challenges:**: Committed to a monorepo project that is developed with atomic design principles to create components that are used for frontend multiple applications.
+- **Solving Problems and Architectural Challenges**: Committed to a monorepo project that is developed with atomic design principles to create components that are used for frontend multiple applications.
 
 ### **Rasyotek HR and Information Technology Inc.** - Istanbul, Turkey
 #### **Software Engineer**
