@@ -1,6 +1,3 @@
-### Hi there 👋
-An inquisitive frontend developer who is passionate about creating customer-facing products with a steady academic background and 3 years professional experience about web technologies who also has a solid experience about JavaScript stacked web applications, design patterns and backend ecosystem which enhances frontend development skills.
-
 ## Experience 🖥
 ---
 ### **BetBull** - Istanbul, Turkey
